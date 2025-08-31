@@ -77,7 +77,7 @@ namespace MuckTrainer
 
                     if (playerStatusAddr != 0)
                     {
-                        if (chkGodMode.Checked) m.WriteFloat(playerStatusAddr + 0x50, 9999f);
+                        if (chkGodMode.Checked) m.WriteFloat(playerStatusAddr + 0x50, 600f);
                         if (chkInfStamina.Checked) m.WriteFloat(playerStatusAddr + 0x64, 100f);
                         if (chkNoHunger.Checked) m.WriteFloat(playerStatusAddr + 0x6C, 100f);
                         if (chkInfShield.Checked) m.WriteFloat(playerStatusAddr + 0x5C, 100f);
@@ -137,4 +137,5 @@ namespace MuckTrainer
 
         }
     }
+
 }
