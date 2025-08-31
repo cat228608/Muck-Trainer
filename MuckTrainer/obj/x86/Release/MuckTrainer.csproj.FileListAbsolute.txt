@@ -1,0 +1,14 @@
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\bin\x86\Release\MuckTrainer.exe.config
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\bin\x86\Release\MuckTrainer.exe
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\bin\x86\Release\MuckTrainer.pdb
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\bin\x86\Release\Memory.dll
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\bin\x86\Release\Memory.pdb
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\bin\x86\Release\Memory.xml
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\obj\x86\Release\MuckTrainer.csproj.AssemblyReference.cache
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\obj\x86\Release\MuckTrainer.Form1.resources
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\obj\x86\Release\MuckTrainer.Properties.Resources.resources
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\obj\x86\Release\MuckTrainer.csproj.GenerateResource.cache
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\obj\x86\Release\MuckTrainer.csproj.CoreCompileInputs.cache
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\obj\x86\Release\MuckTrai.F9BBE1BD.Up2Date
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\obj\x86\Release\MuckTrainer.exe
+C:\Users\bebra\source\repos\MuckTrainer\MuckTrainer\obj\x86\Release\MuckTrainer.pdb
